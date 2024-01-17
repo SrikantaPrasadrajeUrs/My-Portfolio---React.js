@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#contact{
+    background-color: rgb(29, 36, 48);
+    height: 930px;
+}
+#contact h1{
+    margin-top: 25px;
+    font-size: 65px;
+    color: white;
+    font-family: Roboto Slab;
+    text-decoration: underline;
+    letter-spacing: 3.5px;
+}
+#contactblock{
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+    background: #1d2430;
+    box-shadow: 19px 19px 34px #11151c,
+        -19px -19px 34px #293344;
+        width: 700px;
+        height: 700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        padding:0 30px;
+}
+#contactblock div{
+    display: flex;
+    align-items: center;
+}
+#contactblock div>h2{
+    color: white;
+    font-family: Roboto Slab;
+}
+#contactblock div>p{
+    font-size: 20px;
+    margin-left: 9px;
+    text-decoration: none;
+    color: black;
+    font-family: Roboto Condensed;
+}
+#contactblock div>p>a{
+    color: red;
+}
+#contactblock div>img{
+    
+    border-radius: 50%;
+}
+#giff{
+    background-color: white;
+}

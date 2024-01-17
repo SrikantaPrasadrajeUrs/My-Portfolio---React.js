@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Silkscreen:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#skills {
+    height: 1300px;
+    background-color: rgb(29, 36, 48);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#skills>h1 {
+    margin-top: 25px;
+    font-size: 65px;
+    color: white;
+    font-family: Roboto Slab;
+    text-decoration: underline;
+    letter-spacing: 3.5px;
+
+}
+
+.skillblock {
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+    background: #1d2430;
+    box-shadow: 19px 19px 34px #11151c,
+        -19px -19px 34px #293344;
+    display: flex;
+    padding: 30px;
+    width: 950px;
+    justify-content: space-evenly;
+}
+
+/* skill block 2 */
+.skillblock2 {
+    margin-top: 50px;
+    margin-left: 619px;
+    border-radius: 10px;
+    background: #1d2430;
+    box-shadow: 19px 19px 34px #11151c,
+        -19px -19px 34px #293344;
+    display: flex;
+    padding: 30px;
+    width: 950px;
+    justify-content: space-evenly;
+}
+@media screen and (max-width: 1583px) {
+   .skillblock2{
+        margin-top: 50px;
+        margin-left: 50px;
+        border-radius: 10px;
+        background: #1d2430;
+        box-shadow: 19px 19px 34px #11151c,
+            -19px -19px 34px #293344;
+        display: flex;
+        padding: 30px;
+        width: 950px;
+        justify-content: space-evenly;
+    }
+}
+
+.skillblock2 hr {
+    border-color: rgb(100, 98, 98);
+}
+
+.skillblock2 img {
+    border-radius: 50%;
+
+}
+
+.skillblock2 h3 {
+    margin-top: 8px;
+    color: black;
+    font-size: 35px;
+    font-family: Roboto Slab;
+}
+
+.skillblock2 ul {
+    margin-left: 35px;
+    margin-top: -50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.skillblock2 ul li>h4 {
+    font-size: 22px;
+    font-family: Roboto Condensed;
+    word-spacing: 2px;
+    letter-spacing: .5px;
+}
+
+/* skill block ended */
+
+.skillblock hr {
+    border-color: rgb(100, 98, 98);
+}
+
+.skillblock img {
+    border-radius: 50%;
+
+}
+
+.skillblock h3 {
+    margin-top: 8px;
+    color: black;
+    font-size: 35px;
+    font-family: Roboto Slab;
+    letter-spacing: .5px;
+}
+
+.skillblock ul {
+    margin-left: 35px;
+    margin-top: -50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.skillblock ul li>h4 {
+    font-size: 22px;
+    font-family: Roboto Condensed;
+    word-spacing: 2px;
+    letter-spacing: .5px;
+}
+
+.secondpart {
+    margin-left: 30px;
+}
+
+.secondpart h2 {
+    margin-top: 10px;
+    color: rgb(12, 211, 12);
+    font-family: 'Press Start 2P', system-ui;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.secondpart h1 {
+    font-family: Roboto Slab;
+}
+
+.firstpart {
+    margin-right: 10px;
+}
+
+.firstpart3 {
+    margin-right: 10px;
+}
+
+.firstpart3 img {
+    margin-top: 5px;
+    border-radius: 10px;
+    width: 350px;
+}
+#contentpart3{
+    margin-top: -120px;
+}

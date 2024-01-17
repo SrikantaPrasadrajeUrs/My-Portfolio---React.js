@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* fixed bar */
+
+#stick{
+    left: 1470px;
+    top: 650px;
+    background-color: ;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: white;
+}
+#stick img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
