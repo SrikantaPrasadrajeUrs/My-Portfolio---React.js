@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio---React.js/static/css/main.1019f116.css",
+    "main.js": "/My-Portfolio---React.js/static/js/main.f84ba553.js",
+    "static/media/insta.png": "/My-Portfolio---React.js/static/media/insta.fa6679213cc474acdff1.png",
+    "static/media/dashboardimage.png": "/My-Portfolio---React.js/static/media/dashboardimage.850c6014888d2fc06090.png",
+    "static/media/my-img1-removebg-preview.png": "/My-Portfolio---React.js/static/media/my-img1-removebg-preview.1a1346859a363c94427a.png",
+    "static/media/java to mysql.png": "/My-Portfolio---React.js/static/media/java to mysql.b56f22932c17065dd130.png",
+    "static/media/javalogo.jpg": "/My-Portfolio---React.js/static/media/javalogo.bc7a3325b6ee01ddcab8.jpg",
+    "static/media/download.gif": "/My-Portfolio---React.js/static/media/download.67bd2f71f337c62d76e6.gif",
+    "static/media/login-page.jpg": "/My-Portfolio---React.js/static/media/login-page.f62bd71d0e03d87f9eb4.jpg",
+    "static/media/hibernate-java.jpg": "/My-Portfolio---React.js/static/media/hibernate-java.da92c8a7d4becf108fd7.jpg",
+    "static/media/git.webp": "/My-Portfolio---React.js/static/media/git.3fc5ead9ff318bda611c.webp",
+    "static/media/todolist.jpg": "/My-Portfolio---React.js/static/media/todolist.456af070b66684f6f22b.jpg",
+    "static/media/smiling gradute.png": "/My-Portfolio---React.js/static/media/smiling gradute.bb715c6caaa7d94b2c69.png",
+    "static/media/html-css-javascript-react.jpg": "/My-Portfolio---React.js/static/media/html-css-javascript-react.416be5923674bb445d48.jpg",
+    "static/media/8666578_arrow_up_circle_icon.png": "/My-Portfolio---React.js/static/media/8666578_arrow_up_circle_icon.700455c52f2fd93053a2.png",
+    "static/media/linkdln.png": "/My-Portfolio---React.js/static/media/linkdln.df3f373c358bcfdd92bb.png",
+    "index.html": "/My-Portfolio---React.js/index.html",
+    "main.1019f116.css.map": "/My-Portfolio---React.js/static/css/main.1019f116.css.map",
+    "main.f84ba553.js.map": "/My-Portfolio---React.js/static/js/main.f84ba553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1019f116.css",
+    "static/js/main.f84ba553.js"
+  ]
+}
